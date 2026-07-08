@@ -26,7 +26,7 @@ Projeto criado com objetivo de gerar um podcast utlizando ferramentas de IA atra
 
 
 
-_Desenvolvido por Itael Dikson_
+
 
 
 
